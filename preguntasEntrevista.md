@@ -5,7 +5,7 @@ Javascript Q&A
 > Las funciones sincronas suceden de manera procedural/lineal, funcionan a presente y dan respuestas inmediatas.
 > Mientras que las funciones asincronas no esperan las instrucciones pero continuan ejecutandose brindando una respuesta a futuro(Promesa).
 
-Las funciones sincronas al ser procedurales tienen un tiempo de ejecucion mayor, ya que las asincronas permiten la realizacion de varias tareas en paralelo al no necesitarse las unas a las otras para lograr su funcionalidad.
+> Las funciones sincronas al ser procedurales tienen un tiempo de ejecucion mayor, ya que las asincronas permiten la realizacion de varias tareas en paralelo al no necesitarse las unas a las otras para lograr su funcionalidad.
 --------------------------------------------------------------------------------------------------------------------------
 • ¿Por qué Fetch es la forma preferida de enviar una solicitud de red a través del navegador web?
 
